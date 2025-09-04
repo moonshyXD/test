@@ -1,3 +1,1 @@
-print("Main")
-print('Test branch')
-print('Merge')
+print('for rebase')
